@@ -46,18 +46,18 @@ const menuItems: MenuItem[] = [
 const slides: Slide[] = [
   {
     image: 'https://i.postimg.cc/wjLZ4ssG/team-replacing-old-air-conditioner.jpg',
-    title: 'Professional AC Solutions',
-    subtitle: 'KEEP YOUR SPACE COOL AND COMFORTABLE WITH EXPERT MAINTENANCE IN QATAR.'
+    title: 'AC Maintenance Services',
+    subtitle: 'KEEP YOUR SPACE COOL AND COMFORTABLE WITH EXPERT AC MAINTENANCE IN QATAR.'
   },
   {
-    image: 'https://i.postimg.cc/4dmr52vn/wireman-dissasembling-air-conditioner.jpg',
-    title: 'Expert Maintenance Services',
-    subtitle: 'RELIABLE AC REPAIR AND INSTALLATION FOR HOMES AND BUSINESSES.'
+    image: 'https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=1920&q=80',
+    title: 'Washing Machine Repair',
+    subtitle: 'PROFESSIONAL WASHING MACHINE REPAIR AND MAINTENANCE FOR ALL BRANDS.'
   },
   {
-    image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1920&q=80',
-    title: 'Cool Comfort Guaranteed',
-    subtitle: 'TRUSTED AC MAINTENANCE SPECIALISTS SERVING ALL OF QATAR.'
+    image: 'https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=1920&q=80',
+    title: 'Fridge Repair Services',
+    subtitle: 'EXPERT REFRIGERATOR REPAIR AND MAINTENANCE TO KEEP YOUR FOOD FRESH.'
   }
 ];
 
