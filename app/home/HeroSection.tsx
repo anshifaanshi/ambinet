@@ -25,7 +25,7 @@ const menuItems: MenuItem[] = [
   },
   {
     name: 'About',
-    route: '/about',
+    route: '/About',
     image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800&q=80',
     color: '#2a4d7f'
   },
